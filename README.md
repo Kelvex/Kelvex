@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kevin Cando 👋
 
 **Backend Developer** building secure, scalable APIs with **Java 17+ & Spring Boot**. I work across the full lifecycle of enterprise applications — from database design and business logic to deployment and support.
 
@@ -40,17 +40,3 @@
 - **Sales performance module** — APIs for budgets, accumulated sales, progress and projections per seller and item
 
 ---
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [project-name](https://github.com/[username]/project-name) | Short description of what it does | Java, Spring Boot, MySQL |
-| [project-name](https://github.com/[username]/project-name) | Short description of what it does | Java, Spring Boot, AWS |
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[your-email])
